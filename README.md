@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nelson .</h1>
 <h3 align="center">A Full Stack Developer from Argentina  :)</h3>
 
-<p align="left"> holas soy un joven progamador , muy proactivo y con muchas energias para aprender y dar lo mejor de mi 👋  <P>
+<p align="left"> Hi! I'm Nelson vargas , a Junior Full Stack Developer with a passion for learning and building exciting projects. Although I'm just starting my journey in the industry, I'm eager to develop my skills and make a meaningful contribution to the tech community.
+I'm constantly exploring new resources to expand my knowledge. I enjoy tackling challenging problems and collaborating with others to find creative solutions. 👋  <P>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imorion" alt="imorion" /></a> </p>
 
